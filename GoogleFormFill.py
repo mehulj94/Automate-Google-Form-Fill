@@ -1,6 +1,6 @@
 import urllib,urllib2
 
-data = "" #Text you have to fill in the form. You can also read a file and fill its content on a google form.
+data = "" #Text you have to fill in the form. You can also read a file and fill its content in a google form.
 
 url="https://docs.google.com/forms/d/XXXXXXXXXXXXXXXXXXXXXXX/formResponse" #URL to the form you want to fill. FormResponse should be used instead of ViewForm
 
